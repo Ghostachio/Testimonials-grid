@@ -20,7 +20,6 @@ img {
 }
 
 .container {
-  background-color: hsl(205, 22%, 76%);
   width: 60rem;
   height: 40rem;
   display: grid;
@@ -32,6 +31,7 @@ img {
 
 .box {
   border-radius: 1rem;
+  box-shadow: 10px 10px 20px hsl(0, 0%, 57%, 0.5);
 }
 
 .title {
